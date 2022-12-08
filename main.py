@@ -1,0 +1,1 @@
+Print("jampalakdi jaaru mithaya")
